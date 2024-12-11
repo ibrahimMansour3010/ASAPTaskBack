@@ -1,0 +1,6 @@
+@ASAPTask.API_HostAddress = http://localhost:5211
+
+GET {{ASAPTask.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
