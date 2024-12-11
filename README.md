@@ -52,8 +52,8 @@ The project follows the Clean Architecture structure:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/ibrahimMansour3010/ASAPTaskBack.git
+   cd ASAPTaskBack
    ```
 
 2. Set up the database connection string in `appsettings.json`:
